@@ -12,13 +12,13 @@
 - 🔭 В настоящий момент работаю над приложением [Shinka](https://github.com/Izpodvypodvert/Shinka)  
   
 
-- 🌱В настоящий момент изучаю nginx  
+- 🌱 В настоящий момент изучаю nginx  
   
 
 <br/>  
 
 
-## Навыки
+## 💻 Навыки
 <table><tr><td valign="top" width="33%">
 
 
@@ -60,7 +60,7 @@
 <br/>  
 
 
-## Контакты
+## 🤝 Контакты
 <div align="center">
 <a href="https://github.com/Izpodvypodvert" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
