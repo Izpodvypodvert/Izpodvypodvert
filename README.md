@@ -9,7 +9,7 @@
 <br/>  
   
 
-- 🔭 I’m currently working on [Shinka](https://github.com/Izpodvypodvert/Shinka)  
+- 🔭 В настоящий момент работаю над приложением [Shinka](https://github.com/Izpodvypodvert/Shinka)  
   
 
 - 🌱В настоящий момент изучаю nginx  
@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Навыки
 <table><tr><td valign="top" width="33%">
 
 
@@ -60,7 +60,7 @@
 <br/>  
 
 
-## Connect with me  
+## Контакты
 <div align="center">
 <a href="https://github.com/Izpodvypodvert" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -71,7 +71,7 @@
 <br/>  
 
 
-## Github Stats  
+## Статистика
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Izpodvypodvert&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
