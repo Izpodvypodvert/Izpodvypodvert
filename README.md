@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">Меня зовут Александр, я разработчик на питон.</div>  
+### <div align="center">Привет👋. Меня зовут Александр, я разработчик на питон.</div>  
   
 
 - 🔭 I’m currently working on [Shinka](https://github.com/Izpodvypodvert/Shinka)  
@@ -75,15 +75,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Izpodvypodvert&&style=flat-square" align="center" />
