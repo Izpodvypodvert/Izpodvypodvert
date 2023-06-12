@@ -71,18 +71,15 @@
 <br/>  
 
 
-## Статистика
+## ⚙️ Статистика
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Izpodvypodvert&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Izpodvypodvert&&style=flat-square" align="center" />
-</div>
-### ⚙️ GitHub статистика:
-
-<table>
+<!-- <img src="https://komarev.com/ghpvc/?username=Izpodvypodvert&&style=flat-square" align="center" /> -->
+  <table>
   <tr>
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Izpodvypodvert&theme=dark&background=000000" alt="Github stats" />
@@ -92,10 +89,8 @@
     </td>
   </tr>
 </table>
-  
+</div>
 
 <br/>  
 
-
-<br />
 
