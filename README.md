@@ -79,7 +79,19 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Izpodvypodvert&&style=flat-square" align="center" />
-</div>  
+</div>
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Izpodvypodvert&theme=dark&background=000000" alt="Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Izpodvypodvert&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
   
 
 <br/>  
