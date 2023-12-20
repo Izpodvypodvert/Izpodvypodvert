@@ -70,7 +70,11 @@
 <div align="center">
 <a href="https://github.com/Izpodvypodvert" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a> 
+  <h5 align="center">
+  <code><a href="https://t.me/izpodvypodwerta" title="TG me"><img width="22" src="images/telegram-svgrepo-com.svg"> Telegram</a></code>
+  <code><img width="22" src="images/gmail-svgrepo-com.svg"> izpodvypodwerta@gmail.com</code>
+</h5>
 </div>  
   
 
