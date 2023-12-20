@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -18,7 +17,7 @@
 <br/>  
 
 
-## 💻 Навыки
+<h2 align="center"> 💻 Навыки </h2>
 <table><tr><td valign="top" width="33%">
 
 
