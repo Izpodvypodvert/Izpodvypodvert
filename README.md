@@ -12,7 +12,7 @@
 - 🔭 В настоящий момент работаю над приложением [Shinka](https://github.com/Izpodvypodvert/Shinka)
 -->
 
-<h3 align="center">- 🌱 В настоящий момент изучаю FastAPI, SQLModel</h3>
+<h5 align="center">- 🌱 В настоящий момент изучаю FastAPI, SQLModel</h5>
 
 <br/>  
 <br/>  
