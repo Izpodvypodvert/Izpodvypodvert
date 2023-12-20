@@ -68,8 +68,8 @@
 
 ## 🤝 Контакты
 <h5 align="center">
-  <code><a href="https://t.me/izpodvypodwerta" title="TG me"><img width="22" src="images/telegram-svgrepo-com.svg"> Telegram</a></code>
-  <code><img width="22" src="images/gmail-svgrepo-com.svg"> izpodvypodwerta@gmail.com</code>
+  <code><a href="https://t.me/izpodvypodwerta" title="TG me"><img width="40" src="images/telegram-svgrepo-com.svg"> Telegram</a></code>
+  <code><img width="40" src="images/gmail-svgrepo-com.svg"> izpodvypodwerta@gmail.com</code>
 </h5>
 
   
