@@ -19,7 +19,7 @@
 <br/>
 
 <h2 align="center"> 💻 Навыки </h2>
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
