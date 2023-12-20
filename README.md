@@ -15,12 +15,6 @@
 
 - 🌱 В настоящий момент изучаю FastAPI, SQLModel
 
-<h2 align="center">👨‍💻 Сейчас работаю над проектом 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="center" href="https://github.com/Izpodvypodvert/Pyramid" title="Pyramid"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Izpodvypodvert&repo=Pyramid&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
 <br/>  
 
 
@@ -65,6 +59,11 @@
 
 <br/>  
 
+<h2 align="center">👨‍💻 Сейчас работаю над проектом 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/Izpodvypodvert/Pyramid" title="Pyramid"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Izpodvypodvert&repo=Pyramid&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 
 ## 🤝 Контакты
 <h5 align="center">
