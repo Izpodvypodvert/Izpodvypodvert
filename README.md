@@ -15,7 +15,8 @@
 - 🌱 В настоящий момент изучаю FastAPI, SQLModel
 
 <br/>  
-
+<br/>  
+<br/>
 
 <h2 align="center"> 💻 Навыки </h2>
 <table><tr><td valign="top" width="33%">
