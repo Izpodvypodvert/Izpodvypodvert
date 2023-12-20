@@ -58,6 +58,8 @@
 </td></tr></table>  
 
 <br/>  
+<br/>  
+<br/>  
 
 <h2 align="center">👨‍💻 Сейчас работаю над проектом 👨‍💻</h2>
 <br>
@@ -71,10 +73,9 @@
   <code><img width="40" src="images/gmail-svgrepo-com.svg"> izpodvypodwerta@gmail.com</code>
 </h5>
 
-  
-
 <br/>  
-
+<br/>  
+<br/>  
 
 <h2 align="center"> ⚙️ Статистика </h2>
 <!-- <div align="center">
