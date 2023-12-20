@@ -67,6 +67,10 @@
   <a align="center" href="https://github.com/Izpodvypodvert/Pyramid" title="Pyramid"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Izpodvypodvert&repo=Pyramid&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
+<br/>  
+<br/>  
+<br/>
+
 <h2 align="center"> 🤝 Контакты </h2>
 <h5 align="center">
   <code><a href="https://t.me/izpodvypodwerta" title="TG me"><img width="40" src="images/telegram-svgrepo-com.svg"> Telegram</a></code>
